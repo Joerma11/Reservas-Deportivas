@@ -95,8 +95,9 @@ php artisan migrate --seed
 npm run dev
 php artisan serve
  ```
-Accesos por Defecto (Entorno de Desarrollo)
-Portal Público (Reservas): http://127.0.0.1:8000/
+
+
+Una vez iniciado el servidor, visita http://127.0.0.1:8000 en tu navegador para ver el sitio en funcionamiento.
 
 🔑 Acceso Administrativo: http://127.0.0.1:8000/login
 
